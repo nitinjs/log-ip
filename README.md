@@ -10,6 +10,5 @@
 
 ### References
 
-> [Detailed article](http://blog.nitinsawant.com/2023/01/ethical-hacking-hassle-free-logging-ip.html)
->
+> [Detailed article](http://blog.nitinsawant.com/2023/01/ethical-hacking-hassle-free-logging-ip.html)<br/>
 > [Edit on StackBlitz⚡️](https://stackblitz.com/edit/web-platform-jviqq7)
