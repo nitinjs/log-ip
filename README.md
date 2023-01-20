@@ -1,4 +1,4 @@
-# Ethical hacking: Hassle free logging of IP address of any person
+# Hassle free logging of IP address of any person
 
 ## Steps:
 <ol>
@@ -12,3 +12,5 @@
 
 > [Detailed article](http://blog.nitinsawant.com/2023/01/ethical-hacking-hassle-free-logging-ip.html)<br/>
 > [Edit on StackBlitz⚡️](https://stackblitz.com/edit/web-platform-jviqq7)
+
+Note: I am not responsible for what you do with this code, Ethical hacking for educational purpose only 
