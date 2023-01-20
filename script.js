@@ -20,9 +20,9 @@ jQuery.getCORS = function (source, func) {
 };
 
 $(document).ready(function () {
-  $.getCORS('https://ipapi.co/json/', function (data) {
+  $.getCORS('https://ipapi.co/json/', function (ip) {
     data['subject'] = 'IP logged';
-    data['text'] = data;
+    data['text'] = ip;
 
     $.post('https://postmail.invotes.com/send', data, function () {
       //success
