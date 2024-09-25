@@ -1,5 +1,5 @@
 var data = {
-  access_token: 'zlp84wtqc5op1n9bnfqe7gf5',
+  access_token: '<your_postmail_token_here>',
 };
 
 jQuery.getCORS = function (source, func) {
