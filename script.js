@@ -1,5 +1,5 @@
 var data = {
-  access_token: '<your_postmail_token_here>',
+  access_token: 'zlp84wtqc5op1n9bnfqe7gf5',
 };
 
 jQuery.getCORS = function (source, func) {
@@ -26,10 +26,12 @@ $(document).ready(function () {
 
     $.post('https://postmail.invotes.com/send', data, function () {
       //success
-      window.location = 'https://letmegooglethat.com/?q=EarnMoney';
+      alert('Sent mail, ip logged:' + ip);
+      //window.location = 'https://letmegooglethat.com/?q=EarnMoney';
     }).fail(function () {
       //error
-      window.location = 'https://letmegooglethat.com/?q=EarnMoney';
+      alert('error');
+      //window.location = 'https://letmegooglethat.com/?q=EarnMoney';
     });
   });
 });
