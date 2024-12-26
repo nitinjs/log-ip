@@ -10,7 +10,7 @@
 
 ### References
 
-> [Detailed article](http://blog.nitinsawant.com/2023/01/ethical-hacking-hassle-free-logging-ip.html)<br/>
+> [Detailed article]([http://blog.nitinsawant.com/2023/01/ethical-hacking-hassle-free-logging-ip.html)](http://web.archive.org/web/20230604130656/http://blog.nitinsawant.com/2023/01/ethical-hacking-hassle-free-logging-ip.html)<br/>
 > [Edit on StackBlitz⚡️](https://stackblitz.com/edit/web-platform-jviqq7)
 
 Note: I am not responsible for what you do with this code, Ethical hacking for educational purpose only 
